@@ -1,0 +1,7 @@
+MongoDB
+https://www.mongodb.com/community/forums/t/installation-of-mongodb-on-ubuntu-22-04/198860/4
+https://www.mongodb.com/docs/v6.0/reference/installation-ubuntu-community-troubleshooting/
+
+PostgreSQL
+https://dba.stackexchange.com/questions/320575/what-does-postgresql-status-active-exited-mean
+https://learn.microsoft.com/en-us/azure/postgresql/extensions/vs-code-extension/quickstart-connect
