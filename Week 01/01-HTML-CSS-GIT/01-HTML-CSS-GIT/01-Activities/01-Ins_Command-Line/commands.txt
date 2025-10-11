@@ -1,0 +1,11 @@
+# Command Line Demo (macOS/Linux; Windows with Git Bash)
+# Show: ls, cd, cd .., pwd, mkdir, touch
+
+pwd
+ls
+mkdir week1_practice
+cd week1_practice
+touch hello.txt
+ls
+cd ..
+pwd

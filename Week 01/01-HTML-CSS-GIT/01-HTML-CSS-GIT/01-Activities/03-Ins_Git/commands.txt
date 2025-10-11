@@ -1,0 +1,7 @@
+# Instructor Demo: Create a GitHub repository via the website UI.
+# Steps (for demo):
+# 1) Click "New" repository on GitHub.
+# 2) Name it: week1-hello
+# 3) Choose Public, add README (optional)
+# 4) Create repository
+# 5) Copy SSH/HTTPS URL for later

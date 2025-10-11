@@ -1,0 +1,19 @@
+/* Universal selector */
+* {
+  box-sizing: border-box;
+}
+
+/* Element selector */
+p {
+  color: #333;
+}
+
+/* Class selector */
+.title {
+  background: #eef2ff;
+}
+
+/* ID selector */
+#mainTitle {
+  padding: 8px;
+}
