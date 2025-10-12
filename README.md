@@ -1,4 +1,4 @@
-# Full Stack Learning Reference
+# Full Stack Dev Reference
 
 * Syllabus and Outlines
 * Setup scripts and instruction
