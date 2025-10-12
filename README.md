@@ -1,5 +1,5 @@
-# Full Stack Learning
+# Full Stack Learning Reference
 
 * Syllabus and Outlines
 * Setup scripts and instruction
-* Documention of all pertinent modules/extensions/frameworks/libraries
+* Documentation of all pertinent modules/extensions/frameworks/libraries
