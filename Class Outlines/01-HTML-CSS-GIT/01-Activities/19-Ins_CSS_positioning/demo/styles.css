@@ -1,0 +1,21 @@
+.container {
+  position: relative;
+  height: 160px;
+  border: 1px solid #ddd;
+}
+.box {
+  width: 60px;
+  height: 60px;
+  background: #bfdbfe;
+  border: 1px solid #60a5fa;
+}
+.a {
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.b {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
