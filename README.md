@@ -3,3 +3,4 @@
 * Syllabus and Outlines
 * Setup scripts and instruction
 * Documentation of all pertinent modules/extensions/frameworks/libraries
+* Weeks ## Instruction material covered and Student Excerises with Acceptance Criteria
