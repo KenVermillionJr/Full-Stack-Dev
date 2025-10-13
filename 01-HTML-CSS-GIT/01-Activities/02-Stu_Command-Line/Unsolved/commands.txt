@@ -1,1 +1,13 @@
 # Paste your commands here, one per line.
+~$ mkdir week_cli
+~$ cd week_cli/
+~/week_cli$ echo 'hello' > notes.txt && echo 'world!' > todo.txt
+~/week_cli$ cat notes.txt && cat todo.txt
+hello
+world!
+~/week_cli$ pwd
+/home/kenvermillion/week_cli
+~/week_cli$ cd ..
+~$ pwd
+/home/kenvermillion
+~$ 
