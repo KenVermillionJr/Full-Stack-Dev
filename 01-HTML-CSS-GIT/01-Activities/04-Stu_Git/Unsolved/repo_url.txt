@@ -1,1 +1,7 @@
 https://github.com/KenVermillionJr/Full-Stack-Dev
+
+SSH verified:
+:~/node/Code Cademy$ ssh -T git@github.com
+Hi KenVermillionJr! You've successfully authenticated, but GitHub does not provide shell access.
+
+
