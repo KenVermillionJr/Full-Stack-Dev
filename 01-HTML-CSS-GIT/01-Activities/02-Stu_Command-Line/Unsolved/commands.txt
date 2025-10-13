@@ -2,13 +2,13 @@
 
 kenvermillion@talmid:~$ mkdir week_cli
 kenvermillion@talmid:~$ cd week_cli/
-kenvermillion@talmid:~$~/week_cli$ echo 'hello' > notes.txt && echo 'world!' > todo.txt
-kenvermillion@talmid:~$~/week_cli$ cat notes.txt && cat todo.txt
+kenvermillion@talmid:~/week_cli$ echo 'hello' > notes.txt && echo 'world!' > todo.txt
+kenvermillion@talmid:~/week_cli$ cat notes.txt && cat todo.txt
 hello
 world!
-kenvermillion@talmid:~$~/week_cli$ pwd
+kenvermillion@talmid:~/week_cli$ pwd
 /home/kenvermillion/week_cli
-kenvermillion@talmid:~$~/week_cli$ cd ..
+kenvermillion@talmid:~/week_cli$ cd ..
 kenvermillion@talmid:~$ pwd
 /home/kenvermillion
 kenvermillion@talmid:~$ 
