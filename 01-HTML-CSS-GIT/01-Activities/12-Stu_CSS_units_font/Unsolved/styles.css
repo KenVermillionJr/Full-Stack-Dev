@@ -5,6 +5,7 @@ body {
 h1 {
   font-size: 26px;
   background: midnight blue;  
+  padding: 5px;
 }
 p {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
