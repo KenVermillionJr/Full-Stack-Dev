@@ -14,10 +14,3 @@ h1 {
   background: #e5e7eb;
   padding: 8px;
 }
-
-/* ID selector */
-#banner {
-  background: #cccccc;
-  text-wrap: wrap
-  padding: 8px;
-}
