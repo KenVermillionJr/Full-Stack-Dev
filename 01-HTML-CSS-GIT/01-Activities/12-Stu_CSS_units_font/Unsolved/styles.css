@@ -4,7 +4,7 @@ body {
 }
 h1 {
   font-size: 26px;
-  color: midnight blue;  
+  background: midnight blue;  
 }
 p {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -14,5 +14,5 @@ p {
 small {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 13px;
-  color: aqua;
+  background: aqua;
 }
