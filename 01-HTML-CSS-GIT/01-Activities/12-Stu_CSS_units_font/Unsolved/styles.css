@@ -4,19 +4,19 @@ body {
 }
 h1 {
   font-size: 26px;
-  background: fffacd;  
+  background: #fffacd;  
   color: purple;
   padding: 5px;
 }
 p {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 16px;
-  background: fffacd;
+  background: #fffacd;
   color: red;
 }
 small {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 13px;
-  background: fffacd;
+  background: #fffacd;
   color: aqua;
 }
