@@ -5,6 +5,7 @@ body {
 h1 {
   font-size: 26px;
   background: fffacd;  
+  color: purple;
   padding: 5px;
 }
 p {
