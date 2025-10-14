@@ -2,3 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 16px;
 }
+
+img {
+  opacity: 0.5
+}
