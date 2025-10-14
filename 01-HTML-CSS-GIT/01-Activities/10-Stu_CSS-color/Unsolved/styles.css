@@ -6,8 +6,7 @@ h1 {
 /* Element selector */
 p {
   color: #cc2222;
-  text-font: arial;
-  font-size: 20px;  
+  font-size: 30px;  
 }
 
 /* ID selector */
