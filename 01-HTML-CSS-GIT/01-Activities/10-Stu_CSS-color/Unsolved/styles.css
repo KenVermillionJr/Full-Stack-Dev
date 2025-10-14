@@ -1,1 +1,22 @@
-/* Add your styles here */
+/* Element selector */
+h1 {
+  color: #1f2937;
+}
+
+/* Class selector */
+.lead {
+  color: #334155;
+}
+
+/* ID selector */
+#p {
+  background: #e5e7eb;
+  padding: 8px;
+}
+
+/* ID selector */
+#banner {
+  background: #cccccc;
+  text-wrap: wrap
+  padding: 8px;
+}
