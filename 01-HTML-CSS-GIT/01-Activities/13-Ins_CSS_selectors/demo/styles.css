@@ -1,7 +1,6 @@
 /* Universal selector */
 * {
-  box-sizing: border-box;
-  font-color: red;
+  box-sizing: border-box; 
 }
 
 /* Element selector */
