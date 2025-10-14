@@ -15,7 +15,7 @@ h1 {
 }
 
 /* ID selector */
-#body {
+#plaintext {
   background: #cccccc;
   text-wrap: wrap
   padding: 8px;
