@@ -3,6 +3,12 @@ h1 {
   color: #1f2937;
 }
 
+/* Class selector */
+.banner {
+  color: #334155;
+  padding: 8px;
+}
+
 /* ID selector */
 #p {
   background: #e5e7eb;
