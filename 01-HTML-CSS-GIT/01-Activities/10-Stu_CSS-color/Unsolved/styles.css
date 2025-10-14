@@ -8,14 +8,8 @@ p {
   color: #cc2222;
 }
 
-/* Class selector */
-.banner {
-  color: #334155;
-  padding: 8px;
-}
-
 /* ID selector */
-#p {
+#banner{
   background: #e5e7eb;
   padding: 8px;
 }
