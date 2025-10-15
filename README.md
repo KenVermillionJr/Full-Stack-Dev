@@ -1,6 +1,6 @@
 # Ken's Full Stack Dev Reference
 
-<img src="ref-docs/profile/kenv-gravitar-airbrush.png" data-canonical-src="ref-docs/profile/kenv-gravitar-airbrush.png" width="200" />
+<img src="ref-docs/profile/kenv-gravitar-airbrush.png" width="200" />
 
 * Syllabus and Outlines
 * Setup scripts and instruction
