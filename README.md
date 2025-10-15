@@ -1,6 +1,6 @@
 # Ken's Full Stack Dev Reference
 
-![Ken Vermillion](ref-docs/profile/kenv-gravitar-airbrush.png)|width=100
+![Ken Vermillion](ref-docs/profile/kenv-gravitar-airbrush.png)
 
 * Syllabus and Outlines
 * Setup scripts and instruction
