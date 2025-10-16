@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Flexbox Alignment</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Welcome to the store!</h1>
+    </header>
+
+    <nav>
+      <a href="#">Seashell</a>
+      <a href="#">Corn</a>
+      <a href="#">Classic Fire Engine</a>
+      <a href="#">Milk</a>
+    </nav>
+
+    <main>
+      <section class="product">
+        <div class="product-slideshow">
+          <button>&lt;</button>
+          <!-- Wrap the image in a div to avoid weird flexbox behavior -->
+          <div>
+            <img
+              class="product-image"
+              src="./assets/images/seashell.png"
+              alt="seashell"
+            />
+          </div>
+          <button>&gt;</button>
+        </div>
+        <div class="product-details">
+          <h2>Seashell Product Page</h2>
+          <p>
+            The slideshow buttons on the left won't work until we add JavaScript
+            to the page, but we can at least set up the proper alignment with
+            CSS.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+            tempore sunt culpa dicta iure ipsa aperiam impedit tenetur optio
+            temporibus, nostrum aliquam rerum voluptate! Blanditiis sit ipsam
+            praesentium esse facilis!
+          </p>
+          <p>Price: $30</p>
+          <p>
+            <button>Buy Now</button>
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>Remember to use your DevTools!</footer>
+  </body>
+</html>
